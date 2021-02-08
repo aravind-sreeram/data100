@@ -4,5 +4,5 @@ Welcome! My name is Aravind, I'm a freshman at William & Mary taking DATA 100, o
 
 # My Projects.
 
-[Project 1](project1.md) (Getting Started with R)
+[Project 1](project1.md) (Getting Started with R)  
 [Project 2](project2.md)
