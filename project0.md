@@ -1,4 +1,4 @@
-# Getting Started with R
+# Project 0
 
 In this project, I did some basic experimentation with R to learn how to use its plot functionality.
 ![](RImage1.png)
