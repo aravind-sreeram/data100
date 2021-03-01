@@ -5,7 +5,7 @@ Welcome! My name is Aravind, I'm a freshman at William & Mary taking DATA 100, o
 # My Projects.
 
 [Project 0](project0.md) (Getting Started with R)  
-[Project 1](project1.md) (Map of India)
+[Project 1](project1.md) (Map of India)   
 [Project 2](project2.md) (Population Map of Djibouti)
 
 # My Reflections.
