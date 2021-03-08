@@ -9,5 +9,5 @@ Welcome! My name is Aravind, I'm a freshman at William & Mary taking DATA 100, o
 [Project 2](project2.md) (Population Map of Djibouti)
 
 # My Reflections.
-[Reflection 1](reflection1.md) (Blumenstock - Don’t forget people in the use of big data for development)
+[Reflection 1](reflection1.md) (Blumenstock - Don’t forget people in the use of big data for development)   
 [Reflection 2](reflection2.md) (Kitchin - Big data, new epistomologies, and paradigm shifts)
