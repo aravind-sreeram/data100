@@ -1,31 +1,33 @@
-How does Owen Barder define development? How does he extend Amartya Sen’s definition to include the idea of complexity?
+## Reflection 3
+
+*How does Owen Barder define development? How does he extend Amartya Sen’s definition to include the idea of complexity?*   
 
 Barder defines development as a property of the economic/social system rather than simply the sum of what happens to people in the economy. Barder argues that although we can judge development by its effect on people’s well-being, that is not from where it derives its definition. He explains that it is not just the ability for some firms to output more, however rich or poor in quality it may be, but to rather be a united system of institutions, firms, products, and other necessary components to give individuals living in the economy a happier and healthier well-being.
 
-Question #2. What was the toaster project? What did Thomas Thwaites attempt to do? Was he successful? What is the significance of this example in the context of complexity?
+*What was the toaster project? What did Thomas Thwaites attempt to do? Was he successful? What is the significance of this example in the context of complexity?*   
 
 Barder brings in the idea of complexity that includes factors of economic and social systems like their technological growth and adaptability to change in the social, political, and environmental sense. He illustrates this with what he calls “the toaster project.” He tells of a man named Thomas Thwaites who attempted to dissect a $6 toaster and recreate it completely from scratch. After much turmoil and obstacles, Thwaites produced a toaster that lasted for about 5 seconds before completely getting obliterated. Just because Thwaites puts significantly more work into his toaster, which wouldn’t have been worth half of what he paid for the much simpler, more efficient one, it doesn’t make that toaster better by any means. The $6 toaster requires a wide array of technology and expertise to be correctly put together, so even something at that basic level of simplicity cannot be done without sufficient materials and knowledge. It goes to show complexity exists at all levels, and something as bland as a toaster can be used as an analogy to our view of development and complexity.
 
-According to Barder how successful have economic models been at describing and predicting growth over the past 50 years?
+*According to Barder how successful have economic models been at describing and predicting growth over the past 50 years?*   
 
 Barder says that his model is not what economic models have embraced for most part of 50-60 years, and therefore those models are having a very hard time explaining why there is the exemplary growth we’ve witnessed over the past 50 years. Models primarily relied on the primitive thoughts of describing development/growth by the sum of what happens to individuals and firms over time. He first references the Harrod-Domar model, which relied on capital to explain an economy’s success. Later models used savings, aid, and technology to try and explain why economics would succeed/fail, but none served as an overarching solution. Barder argues that there is some missing ingredient these models aren’t considering, and that this is some internal factor that isn’t being factored into.
 
-Who was Steve Jones? What did he do at uni-lever? Was he successful? How significant were his results?
+*Who was Steve Jones? What did he do at uni-lever? Was he successful? How significant were his results?*   
 
 Steve Jones was an evolutionary biologist who was called into Unilever to help design a better nozzle to assist in the production of soap powder. The design of a new, improved nozzle was bugging scientists at Unilever who couldn’t understand/concoct a mathematical model to explain the optimization of the fluid dynamics. Steve Jones took sort of a brute force approach, and randomly bent nozzles in thousands of different ways until he found the best one. He did this by randomly adjusting each of 10 nozzles, and seeing which one was most efficient. By taking the most efficient one and altering it some more, he eventually built a mimicry of natural selection and ended up with a product that was hundreds of times more efficient than what they started with. These results were extremely successful not only within Unilever but also as a representation of how things evolve over time, either at random like in nature or non-random like in the improvements of products like the bicycle, to produce more efficient or better-suited results to our dynamic world.
 
-Question #5.  What is a complex adaptive system? What are some of its important features?
+*What is a complex adaptive system? What are some of its important features?*   
+
 A complex adaptive system is pretty much self-explanatory; the term posits that systems are not usually linear but rather non-linear in nature and always changing. Similarities in these complex adaptive systems are apparent through the ways that these adaptive agents they are composed of interact with one another. There are key characteristics that almost define the system itself: the first is its unpredictability, or the fact that small changes can snowball into causing major unprecedented shifts. Almost paradoxically, these adaptive systems will show overall global order even if they are unpredictable on a micro scale. Barder uses the example of predicting whether a thunderstorm will appear on a certain day vs. knowing what the general weather will be like on a certain month. As you delve more into the details, it gets harder and harder to predict. Adaptive systems also have properties that are not common to any particular agent within, but rather exhibited over the system as a whole. Another aspect of these systems is that they tend towards complexity. The last characteristic is that these systems do not tend towards equilibrium. The existence of processes like coevolution discourage the stability that equilibrium offers.
 
-Question #6.  Who was Haile Sellasie?  According to Barder (and Kapuscinski), how did Ethiopia during the time of The Emporer exemplify the suppression of emergent systemic change?
+*Who was Haile Sellasie?  According to Barder (and Kapuscinski), how did Ethiopia during the time of The Emporer exemplify the suppression of emergent systemic change?*   
 
 Haile Sellasie was the last emperor of Ethiopia, who held a strict rule of his subjects and imposed a regime that is almost completely nonexistent in today’s day and age. This emperor employed tactics like lying and his servants almost had to hide the true happenings of his country and take care of them without having the emperor deal with them. This system of taking away all economic power from people and giving it to one person, and eliminating any common steps economies take to advance development, allowed Ethiopia to resist emergent systemic change.
 
-Question #7. Why does Barder recommend resisting engineering as a policy implication? What did he mean by iso-morphic mimicry?
+*Why does Barder recommend resisting engineering as a policy implication? What did he mean by iso-morphic mimicry?*   
+
 Barder poses that engineering doesn’t actually give solutions to adaptive problems. He says that evolutionary changes are actually more effective in developing changes to problems than engineering solutions will be. He also explains that engineering would imply that we can predict how our complex adaptive system will change in the future, and as described in one of the system’s earlier characteristics, this is very hard to do. When Barder says to avoid isomorphic mimicry, he means don’t simply mimic the institutions and capacities that we desire to have, with all of its surface characteristics but not any of the attributes that actually make them beneficial to development. 
 
+*What does Barder mean by "resist fatalism"? Who was Norman Borlaug and what is the green revolution?*   
 
-
-
-Question #8.  What does Barder mean by "resist fatalism"? Who was Norman Borlaug and what is the green revolution?
 Resist fatalism simply means that we should not blindly accept the outcomes of evolutionary processes and survival of the fittest. In a way, by resisting fatalism we are altering the very definition of survival of the fittest and proving that we can twist it to our advantage. Borlaug is someone that during the Green Revolution, cross bred (artificially) wheat that was disease resistant and saved over a billion lives of people who would have otherwise died of starvation. If a situation like this comes up again, we shouldn’t simply accept the outcome that people will die. Rather, be like Borlaug and try to alter or accelerate other processes to resist fatalism.
