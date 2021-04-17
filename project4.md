@@ -2,17 +2,17 @@
 
 In this project, I made multiple 3-D representations of the population of the "adm2" districts of Djibouti.   
    
-![](project4pic3.PNG)
-![](project4pic2.PNG)
+![](Project4pic3.PNG)
+![](Project4Pic2.PNG)
 
 Spatial Plot Set 1:
 ![](project4pic5.PNG)
-![](project4pic7.PNG)
+![](preojct4pic7.PNG)
 ![](project4pic8.PNG)
 
 Spatial Plot Set 2:
-![](project4pic6.PNG)
-![](project4pic7.PNG)
+![](proejct4pic6.PNG)
+![](proejct4pic7.PNG)
 ![](project4pic9.PNG)
 
 Spatial Plot Set 3:
