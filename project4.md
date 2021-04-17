@@ -14,7 +14,7 @@ Spatial Plot Set 1: <br />
 <br />
 
 Spatial Plot Set 2: <br />
-![](proejct4pic5.PNG)
+![](project4pic5.PNG)
 ![](proejct4pic7.PNG)
 ![](project4pic9.PNG)   
    
