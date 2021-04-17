@@ -6,13 +6,14 @@ In this project, I made multiple 3-D representations of the population of the "a
 ![](Project4Pic2.PNG)   
    
 
-Spatial Plot Set 1:<br />
+Spatial Plot Set 1: <br />
 ![](project4pic5.PNG)
 ![](proejct4pic7.PNG)
 ![](project4pic8.PNG)   
    
 <br />
-Spatial Plot Set 2:<br />
+
+Spatial Plot Set 2: <br />
 ![](proejct4pic6.PNG)
 ![](proejct4pic7.PNG)
 ![](project4pic9.PNG)   
