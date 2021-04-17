@@ -8,7 +8,7 @@ In this project, I made multiple 3-D representations of the population of the "a
 
 Spatial Plot Set 1:
 ![](project4pic5.PNG)
-![](preojct4pic7.PNG)
+![](proejct4pic7.PNG)
 ![](project4pic8.PNG)   
    
 
