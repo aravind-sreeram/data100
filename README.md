@@ -13,4 +13,5 @@ Welcome! My name is Aravind, I'm a freshman at William & Mary taking DATA 100, o
 # My Reflections.
 [Reflection 1](reflection1.md) (Blumenstock - Don’t forget people in the use of big data for development)   
 [Reflection 2](reflection2.md) (Kitchin - Big data, new epistomologies, and paradigm shifts)   
-[Reflection 3](reflection3.md) (Barder - Development and Complexity)
+[Reflection 3](reflection3.md) (Barder - Development and Complexity)   
+[Reflection 4](reflection4.md) (West - Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies)
