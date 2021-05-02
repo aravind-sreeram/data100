@@ -2,8 +2,8 @@
 
 
 
-![](ob_pop20.PNG)
+![](ob_pop20.png)
 ![](probfile.png)   
    
 ![](Project5Pic1v2.png)
-![](obock.PNG)   
+![](obock.png)   
