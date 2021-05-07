@@ -1,3 +1,5 @@
+## Reflection 5
+
 *Using  these  ideas  from  Aral,  Georgescu-Roegen,  and  Geoff  West  as  well  as  other sources  from  this  semester  (including  your  own  personal  insights  and  reflections), how is the advent of data science serving to advance our understanding of complex adaptive, economic and social systems?*
 
 Data science is changing the way we measure and think about human and societal behavior. The wicked problems our society face today are in large part being solved by the advent of data analytics, data science, and big data. It is clear that with more information and more measurements, one only needs to learn how to process these values into something meaningful to get a jumpstart on solving many of the tough problems in our world.
