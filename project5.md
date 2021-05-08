@@ -11,3 +11,6 @@ Using the previous distribution, I was able to construct a map using the density
 
 Here, I created the more simplistic version of my subdivision, Obock, using only one color. After trying multiple times (even using different countries altogether), I was not able to get my Dim object to have a proper list of x, y, and z coordinates. This errored out my Dcl and spatial lines data frame, which meant I couldn't get neat lines around areas of high population density. The best representation of density is therefore the third picture, with this fourth one mainly holding the structure of what would be the final product.
 ![](obock.png)   
+
+Using a different subdivision called Valga in Estonia, I was able to get to the completed version:
+![](ValgaFinalFile.png)   
