@@ -9,7 +9,8 @@ Welcome! My name is Aravind, I'm a freshman at William & Mary taking DATA 100, o
 [Project 2](project2.md) (Population Map of Djibouti)   
 [Project 3](project3.md) (2-D Population Modeling)   
 [Project 4](project4.md) (3-D Population Modeling)   
-[Project 5](project5.md) (Human and Urban Settlement Areas)
+[Project 5](project5.md) (Human and Urban Settlement Areas)   
+[Final Project](project6.md) (Accessibility 2 & 3 - 3D LMIC Roads & Healthcare Center Modeling)
 
 # My Reflections.
 [Reflection 1](reflection1.md) (Blumenstock - Don’t forget people in the use of big data for development)   
